@@ -1,6 +1,6 @@
-Problema del Negocio - Grupo TUTIFRITI
+Problema del Negocio - Grupo TUTIFRUTI
 
-1. Nombre del Negocio: TUTIFRITI
+1. Nombre del Negocio: TUTIFRUTI
 2. Rubro: Distribución de fruta y verdura al por mayor.
 3. Integrantes: Alejo, Romina
 
