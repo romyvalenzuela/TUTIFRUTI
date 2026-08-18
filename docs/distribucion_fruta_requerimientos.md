@@ -26,9 +26,13 @@ Esta forma de trabajo ha generado  múltiples problemas operativos que afetan di
 10. el sistema debe permitir la gestion de ususios( trabajadores) con distintos niveles de acceso.
 ### Requerimientos no funcionales 
 1.El sistema debe realizar copias de seguridad (backups) automáticas de la base de datos diariamente y en la nube, garantizando que en caso de fallo el tiempo de recuperación de información no supere las 2 horas.
+
 2.La interfaz de usuario debe incluir validaciones de campo en tiempo real (mínimos, máximos, formatos de texto/número) e interfaces intuitivas para reducir los errores de digitación de los trabajadores en al menos un 90%.
+
 3.Las búsquedas y filtrados de ventas históricas, así como la generación de reportes mensuales de ganancias o productos más vendidos, deben ejecutarse y desplegarse en pantalla en un tiempo menor a 3 segundos.
+
 4.El sistema debe implementar un control de acceso basado en roles (RBAC) con autenticación segura (contraseñas encriptadas), asegurando que solo los usuarios autorizados puedan modificar stock o acceder a reportes financieros.
+
 5.El sistema debe actualizar el inventario de frutas y verduras en tiempo real y manejar transacciones concurrentes para evitar discrepancias de stock entre múltiples usuarios registrados simultáneamente.
 
 
